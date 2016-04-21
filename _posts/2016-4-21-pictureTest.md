@@ -1,8 +1,45 @@
 ---
 layout: post
 comments: true
-categories: diary
+categories: 三十之聚
 ---
-## Title
-text  
-pictureHere:![blahblahblah](https://jkzarg-ch3302.files.1drv.com/y3mZwcX_vcbDHuZk5buiLwznWvz7WsmocoQ081wvRrywdV11bG93GX9gJ5KH4FEk3ILBH-KNUoQJBjipcGnu03T9EqNpWU7gq60YkhO9DI_duPLVcaHImhYE2hEhGrWX0iLtSLafa-Qin356KUZQv4I56XiGroiPhaPLOc6caYEeQU?width=90&height=70&cropmode=none)
+## 日程安排：
+
+  ![a](https://kkzhjq-ch3302.files.1drv.com/y3mcTdP03eFEwp_fnXUmhBE-ffLxB6-ijhTh34vF1Oj9XR-qnfc8BIU0NdDPF1AR7_aZIwFoLlIZtp44uLtTZd6FC1xnNVpxTGvGyMGCMSaW1HZkDrG2BKxAmwZaNY6lHtHWF0DkUzz1IzpUDV1t5BEwyFrprGQ8jXZBv7YyT-3vrA?width=431&height=660&cropmode=none)  
+  
+## 花名册：
+激光八二毕业三十年聚会报名开始:
+1.韩乐挺，
+2.黄永江，
+3.陈越
+4.叶建华 
+5.曾海
+6.洛明
+7.朱明
+8.秦伟
+9.谢达
+10.周忠秋
+11.马罗松
+12.余飞鸿
+13.刘志健
+14.纪晋
+15.马骏
+16.韦春龙
+17.钱洪卫
+18.刘鹏程
+19 龚健
+20.罗帮云
+21.张德顺
+22.陆卫平
+23.郑晓明   
+24 尹祚莹
+25姚洪华
+26 胡纯光
+27.邹文栋   
+28.王浟
+29沈晨雁
+30胡磊
+31茆晓华
+32刘建祥
+33 姜晶
+
