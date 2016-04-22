@@ -19,4 +19,4 @@ permalink: /about/
   - 按“commit changes"  
 
 -------
-以上是最基本的方法，会[Markdown](http://www.jianshu.com/p/q81RER)的可以贴图表，做格式等等。
+以上是最基本的方法，会[Markdown](http://sspai.com/25137)的可以贴图表，做格式等等。
