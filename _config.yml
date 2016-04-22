@@ -11,5 +11,5 @@ disqus_url: "http://jiguang82.github.io"
 #########################################
 
 # Build settings
-markdown: pandoc
+markdown: kramdown
 
