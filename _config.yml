@@ -1,25 +1,8 @@
 # Site settings
 title: 激光82共享空间
-email: u_chen@yahoo.com
-description: 'Ideas & Blogs'
-# > # this means to ignore newlines until "baseurl:"
-#   Write an awesome description for your new site here. You can edit this
-#   line in _config.yml. It will appear in your document head meta (for
-#   Google search results) and in your feed.xml site description.
 
-# baseurl: "" # the subpath of your site, e.g. /blog/
-# url: "http://yourdomain.com" # the base hostname & protocol for your site
-# twitter_username: jekyllrb
 github_username: jiguang82
 permalink: /:year/:month/:day/:title/
-# this is the url root of the view source link on the footer page.
-viewsourceroot: https://github.com/jiguang82/jiguang82/blob/master/
-# this is the url root of the create page link on the footer page.
-newsourceroot: https://github.com/jiguang82/jiguang82/new/master
-#########################################
-# for duoshuo.com commenting system, uncomment following line if you do not want to include duoshuo.com. 
-#duoshuo_shortname: YueChen
-#duoshuo_url: "http://jiguang82.github.io"
 # disqus.com commenting system. please note that it is exclusive with duoshuo.com
 disqus_shortname: jiguang82
 disqus_url: "http://jiguang82.github.io"
@@ -28,7 +11,3 @@ disqus_url: "http://jiguang82.github.io"
 # Build settings
 markdown: kramdown
 
-# highlight
-# highlighter: pygments
-# highlighter: rouge
-# highlighter: false
