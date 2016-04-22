@@ -10,9 +10,9 @@ permalink: /about/
 
 ## 加新帖
 本站用 github 和 jekyll 制作，加贴者需[登录](https://github.com/login)，  
- * 登录后按网页最下端中间“加新帖”链
- * 填入帖名
- * 嘮叨几句
- * 按“commit changes"。
+ 1. 登录后按网页最下端中间“加新帖”链
+ 2. 填入帖名
+ 3. 嘮叨几句
+ 4. 按“commit changes"。
 
 
