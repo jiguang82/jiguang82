@@ -14,8 +14,12 @@ layout: default
 <div id="index" class="row">
   <div class="col-sm-9">
     <div class="post-area ">
-	  <div class="categories-list-item">
-	  	呈现
+	  <div class="post-list-header">
+      {% for category in site.categories %}
+        <a href="javascript:;" class="categories-list-item" cate="{{ category | first }}">
+          {{ category | first }} <span class="my-badge">{{ category | last | size }}</span>
+        </a>
+      {% endfor %}
 	  </div>
       <div class="post-list-body">
         <div class="all-posts" post-cate="All">
