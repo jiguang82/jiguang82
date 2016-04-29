@@ -7,7 +7,7 @@ permalink: /:year/:month/:day/:title/
 newsourceroot: https://github.com/jiguang82/jiguang82/new/master
 
 # for duoshuo.com commenting system, uncomment following line if you do not want to include duoshuo.com. 
-duoshuo_shortname: hygblog
+duoshuo_shortname: jiguang82
 duoshuo_url: "http://jiguang82.github.io"
 # disqus.com commenting system. please note that it is exclusive with duoshuo.com
 #disqus_shortname: jiguang82
